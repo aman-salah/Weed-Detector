@@ -1,0 +1,7 @@
+{
+  "name": "PD-YOLO: AgriVision",
+  "description": "Next-gen weed detection system based on PD-YOLO architecture featuring multi-scale feature fusion for Cotton and Beet crops.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
